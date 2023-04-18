@@ -1,7 +1,7 @@
 name: Frigate
 version: 0.11.1
 panel_icon: "mdi:cctv"
-panel_title: Frigate_VIM3
+panel_title: Frigate
 slug: frigate
 description: VIM3 NVR with realtime local object detection for IP cameras
 url: "https://github.com/richardpar/frigate"
