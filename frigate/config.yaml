@@ -44,8 +44,9 @@ services:
   - "mqtt:need"
 arch:
   - aarch64
-  - arm64
-  - armv8
+  - amd64
+  - armhf
+  - armv7
 map:
   - "media:rw"
   - "config:rw"
