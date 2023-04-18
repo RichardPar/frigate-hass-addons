@@ -5,7 +5,7 @@ panel_title: Frigate
 slug: frigate
 description: VIM3.1 NVR with realtime local object detection for IP cameras
 url: "https://github.com/richardpar/frigate"
-image: hub.docker.com/richardpar/frigate_v0.11.1_vim3
+image: "hub.docker.com/richardpar/frigate_v0.11.1_vim3"
 #image: ghcr.io/blakeblackshear/frigate
 startup: application
 boot: auto
