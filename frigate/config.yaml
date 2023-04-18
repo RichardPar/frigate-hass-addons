@@ -43,9 +43,7 @@ schema:
 services:
   - "mqtt:need"
 arch:
-  - amd64
   - aarch64
-  - armv7
 map:
   - "media:rw"
   - "config:rw"
