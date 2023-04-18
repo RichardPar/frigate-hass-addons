@@ -47,7 +47,6 @@ services:
   - "mqtt:need"
 arch:
   - aarch64
-  - arm64
   - amd64
   - armhf
   - armv7
