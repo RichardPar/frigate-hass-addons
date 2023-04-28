@@ -1,11 +1,11 @@
 name: Frigate
-version: latest
+version: armnn
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate
-description: VIM3.1 NVR with realtime local object detection for IP cameras
+description: VIM4 ARM AI NVR with realtime local object detection for IP cameras
 url: "https://github.com/richardpar/frigate"
-image: "richardpar/frigatevim3"
+image: "richardpar/frigate"
 #image: ghcr.io/blakeblackshear/frigate
 startup: application
 boot: auto
