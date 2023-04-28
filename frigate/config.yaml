@@ -5,8 +5,8 @@ panel_title: Frigate
 slug: frigate
 description: VIM4 ARM AI NVR with realtime local object detection for IP cameras
 url: "https://github.com/richardpar/frigate"
-image: "richardpar/frigate"
-#image: ghcr.io/blakeblackshear/frigate
+#image: "richardpar/frigate"
+image: ghcr.io/blakeblackshear/frigate
 startup: application
 boot: auto
 init: false
