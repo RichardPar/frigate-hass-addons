@@ -2,7 +2,7 @@ name: Frigate
 version: armnn_rcp
 panel_icon: "mdi:cctv"
 panel_title: Frigate RCP
-slug: frigate
+slug: frigate-rcp
 description: Rock 4 C PLUS  ARM AI NVR with realtime local object detection for IP cameras
 url: "https://github.com/richardpar/frigate"
 image: "richardpar/frigate"
